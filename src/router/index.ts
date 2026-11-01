@@ -27,7 +27,7 @@ export const router = createRouter({
             children: [
                 {
                     path: '', 
-                    name: "simpsons",
+                    name: "simpson",
                     component: Primus
                 },
                 {
