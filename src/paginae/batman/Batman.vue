@@ -117,7 +117,6 @@ const mittereSubmit = async () => {
               }"
               ></div>
 
-
             <p>Él puede tomar la decisión que nadie más puede, la decisión correcta.</p>
         </header>
 
@@ -313,7 +312,7 @@ const mittereSubmit = async () => {
 <style scoped>
 
 .batman {
-    font-family: 'Arial, Helvetica, sans-serif';
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .titulus-img {
